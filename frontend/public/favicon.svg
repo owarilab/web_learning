@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#2d8a4e"/>
+      <stop offset="100%" stop-color="#6ee79a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left blade -->
+  <path d="M32,56 Q12,40 14,16 Q22,28 32,56Z" fill="url(#g1)" opacity="0.9"/>
+
+  <!-- Center blade -->
+  <path d="M32,56 Q28,30 32,8 Q36,30 32,56Z" fill="url(#g1)"/>
+
+  <!-- Right blade -->
+  <path d="M32,56 Q52,40 50,16 Q42,28 32,56Z" fill="url(#g1)" opacity="0.9"/>
+</svg>

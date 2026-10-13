@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="20" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="70" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="120" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="170" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="220" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="270" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="320" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+  <circle cx="370" cy="20" r="3" fill="#61dafb" opacity="0.4"/>
+
+  <circle cx="20" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="70" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="120" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="170" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="220" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="270" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="320" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="370" cy="70" r="3" fill="#61dafb" opacity="0.35"/>
+
+  <circle cx="20" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="70" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="120" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="170" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="220" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="270" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="320" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="370" cy="120" r="3" fill="#61dafb" opacity="0.3"/>
+
+  <circle cx="20" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="70" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="120" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="170" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="220" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="270" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="320" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="370" cy="170" r="3" fill="#61dafb" opacity="0.25"/>
+
+  <circle cx="20" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="70" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="120" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="170" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="220" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="270" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="320" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+  <circle cx="370" cy="220" r="3" fill="#61dafb" opacity="0.2"/>
+
+  <circle cx="20" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="70" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="120" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="170" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="220" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="270" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="320" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+  <circle cx="370" cy="270" r="3" fill="#61dafb" opacity="0.25"/>
+
+  <circle cx="20" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="70" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="120" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="170" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="220" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="270" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="320" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+  <circle cx="370" cy="320" r="3" fill="#61dafb" opacity="0.3"/>
+
+  <circle cx="20" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="70" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="120" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="170" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="220" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="270" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="320" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+  <circle cx="370" cy="370" r="3" fill="#61dafb" opacity="0.35"/>
+</svg>
